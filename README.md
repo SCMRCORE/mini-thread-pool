@@ -2,7 +2,7 @@
 
 手写一个简单的mini线程池
 
-**blog链接**：
+**blog链接**：[🥽 实现简单线程池 | Blog](https://scmrcore.github.io/Notes/CodeMemoirs/手写线程池.html)
 
 **测试使用**：
 
